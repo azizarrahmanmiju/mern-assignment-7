@@ -13,7 +13,6 @@ const Cover = () => {
             <div className='flex justify-center gap-2'>
                 <button className='bg-[#0BE58A]  px-5 py-3 rounded-full font-semibold'>Explore More</button>
                 <button className='text-white border border-white px-5 py-3 rounded-full font-semibold'>Our Feedback</button>
-
             </div>
 
         </div>
