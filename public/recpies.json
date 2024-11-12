@@ -1,0 +1,92 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spicy Chicken Stir-fry",
+        "recipe_image": "https://images.pexels.com/photos/2113556/pexels-photo-2113556.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "short_description": "A quick and flavorful chicken stir-fry with a spicy kick.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g bell pepper",
+            "100 g green beans",
+            "100 g green beans"
+        ],
+        "preparing_time": "25 min",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Creamy Mushroom Pasta",
+        "recipe_image": "https://images.pexels.com/photos/952478/pexels-photo-952478.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "short_description": "A creamy and savory mushroom pasta, perfect for dinner.",
+        "ingredients": [
+            "400 g pasta",
+            "200 g mushrooms",
+            "200 ml heavy cream",
+            "50 g parmesan cheese",
+            "2 cloves garlic"
+        ],
+        "preparing_time": "30 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Classic Caesar Salad",
+        "recipe_image": "https://images.pexels.com/photos/1040685/pexels-photo-1040685.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "short_description": "A fresh and crunchy Caesar salad with homemade dressing.",
+        "ingredients": [
+            "200 g romaine lettuce",
+            "50 g croutons",
+            "1 chicken breast",
+            "1 chicken breast",
+            "1 chicken breast"
+        ],
+        "preparing_time": "15 min",
+        "calories": "200 calories"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Grilled Salmon with Asparagus",
+        "recipe_image": "https://images.pexels.com/photos/357737/pexels-photo-357737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "short_description": "A healthy and tasty grilled salmon with fresh asparagus.",
+        "ingredients": [
+            "1 salmon fillet",
+            "200 g asparagus",
+            "1 tbsp olive oil",
+            "1 lemon",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "20 min",
+        "calories": "400 calories"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Vegetable Stir-fry",
+        "recipe_image": "https://images.pexels.com/photos/2113556/pexels-photo-2113556.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "short_description": "A colorful stir-fry with a variety of fresh vegetables.",
+        "ingredients": [
+            "150 g broccoli",
+            "100 g carrots",
+            "100 g bell peppers",
+            "100 ml soy sauce",
+            "1 tbsp sesame oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "220 calories"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Banana Pancakes",
+        "recipe_image": "https://images.pexels.com/photos/952478/pexels-photo-952478.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "short_description": "Fluffy banana pancakes perfect for breakfast.",
+        "ingredients": [
+            "2 bananas",
+            "150 g flour",
+            "2 eggs",
+            "100 ml milk",
+            "1 tsp baking powder"
+        ],
+        "preparing_time": "15 min",
+        "calories": "280 calories"
+    }
+]
