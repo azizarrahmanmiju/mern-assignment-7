@@ -13,9 +13,9 @@ const Header = () => {
                 </ul>
                 <div className="flex justify-center content-center gap-2">
 
-                    <input className="shadow-lg p-2 rounded-full bg-gray-50 border" type="text" placeholder='Search'></input>
+                    <input className="shadow-lg p-2 rounded-full bg-white border-2" type="text" placeholder='Search'></input>
 
-                    <img className="border-2 w-10 h-10 rounded-full border-red-300" src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg" alt="" />
+                    <img className="border-2 w-10 h-10 rounded-full border-red-300 shadow-lg" src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg" alt="" />
                 </div>
             </div>
         </div>

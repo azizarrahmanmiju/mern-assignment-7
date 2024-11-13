@@ -2,9 +2,9 @@
 
 .list{
     display: flex;
-    gap: 10px;
-    color: rgb(8, 8, 8);
-    font-size: 12px;
+    gap: 15px;
+    color: #878787;
+    font-size: 15px;
 }
 *{
       font-family: "Poppins", serif;

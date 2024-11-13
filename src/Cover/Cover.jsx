@@ -9,7 +9,7 @@ const Cover = () => {
             }}
         >
             <h1 className="text-white text-5xl  font-semibold">Discover an exceptional cooking class tailored for you!</h1>
-            <p className='text-white font-light  mx-10'>Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding problems to become an exceptionally well world-class Programmer.</p>
+            <p className='text-[#fafafa] font-light  mx-10'>Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding problems to become an exceptionally well world-class Programmer.</p>
             <div className='flex justify-center gap-2'>
                 <button className='bg-[#0BE58A]  px-5 py-3 rounded-full font-semibold'>Explore More</button>
                 <button className='text-white border border-white px-5 py-3 rounded-full font-semibold'>Our Feedback</button>

@@ -5,7 +5,7 @@ import { SlEnergy } from "react-icons/sl";
 
 
 PropTypes
-const Recipie = ({ recipie }) => {
+const Recipie = ({ recipie, handlewantcook }) => {
     const { recipe_name, recipe_image, short_description, ingredients, preparing_time, calories } = recipie;
     return (
         <div className="grid border p-4 gap-4 rounded-[20px] shadow-lg">
@@ -32,7 +32,7 @@ const Recipie = ({ recipie }) => {
                 <SlEnergy className="ml-4"></SlEnergy>
                 <h1>{calories}</h1>
             </div>
-            <button className='bg-[#0BE58A]  px-3 py-2  h-[40px] rounded-full font-semibold'>Explore More</button>
+            <button onClick={() => handlewantcook(recipie)} className='bg-[#0BE58A]  px-3 py-2  h-[40px] rounded-full font-semibold'>Explore More</button>
 
 
 
@@ -45,7 +45,8 @@ const Recipie = ({ recipie }) => {
 };
 
 Recipie.propTypes = {
-    recipie: PropTypes.object.isRequired
+    recipie: PropTypes.object.isRequired,
+    handlewantcook: PropTypes.func
 }
 
 
